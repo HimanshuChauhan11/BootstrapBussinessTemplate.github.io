@@ -1,6 +1,6 @@
 # Bootstrap Bussiness Template
 ## ============================================
-###  https://himanshuchauhan11.github.io/CreativeTechy.github.io/
+### https://himanshuchauhan11.github.io/BootstrapBussinessTemplate.github.io/
 ## ============================================
 
 ## Installation
